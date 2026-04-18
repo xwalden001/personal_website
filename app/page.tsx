@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main>
-      <h1>Coming soon.</h1>
+    <main className="min-h-screen flex items-center justify-center">
+      <h1 className="text-text-primary text-2xl font-mono">Coming soon.</h1>
     </main>
   );
 }
